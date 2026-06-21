@@ -79,8 +79,9 @@ python main.py
 ```
 ---
 
-## 📈 Sample Results & VisualizationThe pipeline automatically outputs several diagnostics into the figures/ directory:
+## 📈 Sample Results & Visualization
 
+The pipeline automatically outputs several diagnostics into the figures/ directory:
 1. Eigenvalue Spectrums: Isolating unstable growing modes ($\text{Im}(\omega) > 0$).
 2. Flow Fields: Iso-contours mapping the perturbation streamfunction $\psi(x,y)$.
 3. Velocity Vectors: Quiver vector layouts capturing spatial $(u, v)$ velocity perturbations.
